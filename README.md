@@ -7,7 +7,7 @@ Since this project was developed in a cross-platform environment (macOS VM), Win
 
     Before extracting: Right-click the .zip file -> Properties -> Check Unblock -> Apply.
 
-    If already extracted: Right-click the MainForm.resx file inside the project folder -> Properties -> Check Unblock.
+    If already extracted: Right-click the MDIProductivityDashboard.resx file inside the project folder -> Properties -> Check Unblock.
 
 2. Shorten the File Path (Fixes "OS Max Path Limit" Error)
 
